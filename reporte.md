@@ -13,7 +13,6 @@
 
 Automatizar métricas de marketing y estrategias en general 
 
-# Trabajo de la semana
 
 ## Preguntas de contexto
 
