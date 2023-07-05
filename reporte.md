@@ -210,4 +210,4 @@ Entienden la importancia de conectar con la audiencia meta a un nivel personal. 
 | Testimonios de la experiencia de las chicas en redes sociales | No hay colaboraciónes públicas |
 
 ## Instalación y uso de Auto GPT
-[reporte-autogpt.md](./reporte-autogpt.md)
+[reporte-autogpt.pdf](./reporte-autogpt.pdf)
